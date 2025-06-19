@@ -21,5 +21,5 @@ The 2-bit counter outputs are also used to provide the DS1 and DS2
 
 With this design, the sample rate for the 16-bit inputs is approximately
 250 Hz. With each clock pulse, four bits of the input are sampled and
-the result is sent to one of the display digits.
+the result is sent to the corresponding display digit.
 
